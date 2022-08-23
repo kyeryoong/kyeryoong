@@ -12,6 +12,17 @@ Interested in
 
 <br/><br/>
 
+
+
+## Current Projects
+- [Cardvisor Frontend](https://github.com/Neckykim/cardvisor): Card Products Recommendation Web Application
+- [my-em](https://github.com/Neckykim/my-em): Mini Social Network Services
+- [Learn & Run](https://github.com/Neckykim/learn-and-run): Education and Exam Management Web Application
+
+<br/><br/>
+
+
+
 ## Interested Software, Frameworks, and Programming Languages
 
 ### Programming Languages
@@ -33,6 +44,8 @@ Interested in
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/> <img src="https://img.shields.io/badge/DataGrip-000000?style=flat-square&logo=DataGrip&logoColor=white"/> <img src="https://img.shields.io/badge/Windows Terminal-4D4D4D?style=flat-square&logo=Windows Terminal&logoColor=white"/>
 
 <br/><br/>
+
+
 
 ![Young-Woo Kim's GitHub stats](https://github-readme-stats.vercel.app/api?username=NeckyKim&show_icons=true&theme=default)
 <br/>
