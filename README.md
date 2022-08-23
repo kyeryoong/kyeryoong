@@ -1,7 +1,16 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30&height=300&section=header&text=NeckyKim&fontSize=60)
 
 ## About Me
-Hongik University Computer Engineering 
+Hongik University Computer Engineering Student.
+
+Interested in
+- Web Applications
+- Frontend Server Management
+- Python Programming Language
+- JavaScript Programming Language
+- Web Crawling and Data Collecting with Python and Selenium
+
+<br/><br/>
 
 ## Interested Software, Frameworks, and Programming Languages
 
