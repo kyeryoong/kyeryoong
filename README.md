@@ -17,7 +17,7 @@ Interested in
 ## Current Projects
 - [Cardvisor Frontend](https://github.com/Neckykim/cardvisor): Card Products Recommendation Web Application
 - [my-em](https://github.com/Neckykim/my-em): Mini Social Network Services
-- [Learn & Run](https://github.com/Neckykim/learn-and-run): Education and Exam Management Web Application
+- [Classpot](https://github.com/Neckykim/Classpot): Education and Exam Management Web Application
 
 <br/><br/>
 
