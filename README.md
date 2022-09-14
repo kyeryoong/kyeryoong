@@ -47,6 +47,9 @@ Interested in
 
 
 
-![Young-Woo Kim's GitHub stats](https://github-readme-stats.vercel.app/api?username=NeckyKim&show_icons=true&theme=default)
-<br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NeckyKim&theme=default)
+<div align="center">
+
+![Young-Woo Kim's GitHub stats](https://github-readme-stats.vercel.app/api?username=NeckyKim&show_icons=false&theme=default&line_height=20)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NeckyKim&theme=default&layout=compact)
+
+</div>
