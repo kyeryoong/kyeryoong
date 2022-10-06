@@ -9,6 +9,7 @@ Interested in
 - Python Programming Language
 - JavaScript Programming Language
 - Web Crawling and Data Collecting with Python and Selenium
+- Data Analysis with Python and Pandas
 
 <br/><br/>
 
