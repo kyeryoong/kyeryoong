@@ -19,15 +19,11 @@ Interested in
 <br/>
 <p align="center"><img src="./cardvisor.png" height="100"></p>
 
-- [cardvisor](https://github.com/Neckykim/cardvisor): Card Products Recommendation Web Application<br/><br/><br/>
-
-<p align="center"><img src="./my-em.png" height="120"></p>
-
-- [my-em](https://github.com/Neckykim/my-em): Mini Social Network Services<br/><br/><br/>
+- [cardvisor](https://github.com/Neckykim/cardvisor): Card Products Recommendation Web Application (2022 Graduation Project)<br/><br/><br/>
 
 <p align="center"><img src="./classpot.png" height="120"></p>
 
-- [classpot](https://github.com/Neckykim/Classpot): Education and Exam Management Web Application<br/><br/><br/>
+- [classpot](https://github.com/Neckykim/Classpot): Education and Exam Management Web Application (Personal Side Project)<br/><br/><br/>
 
 
 
