@@ -11,9 +11,9 @@ Interested in
 - Web Crawling and Data Collecting with Python and Selenium
 - Data Analysis with Python and Pandas
 
-<br/><br/>
+<br/><br/><br/>
 
-## Personal Webiste
+## Personal Website
 
 ### [archiveeng.site](https://archiveeng.site)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/b96b2289-8745-4778-a322-4bc61bb396ee/deploy-status)](https://app.netlify.com/sites/archive-eng/deploys)
@@ -58,7 +58,7 @@ Interested in
 ### Favorite and Frequently Used Editors
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/> <img src="https://img.shields.io/badge/DataGrip-000000?style=flat-square&logo=DataGrip&logoColor=white"/> <img src="https://img.shields.io/badge/Windows Terminal-4D4D4D?style=flat-square&logo=Windows Terminal&logoColor=white"/>
 
-<br/><br/>
+<br/><br/><br/>
 
 
 
