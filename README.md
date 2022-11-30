@@ -16,6 +16,7 @@ Interested in
 ## Personal Webiste
 
 ### [archiveeng.site](https://archiveeng.site)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/b96b2289-8745-4778-a322-4bc61bb396ee/deploy-status)](https://app.netlify.com/sites/archive-eng/deploys)
 <br/><br/>
 
 ## Current Projects
