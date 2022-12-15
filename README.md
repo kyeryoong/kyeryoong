@@ -10,14 +10,19 @@ Interested in
 - JavaScript and TypeScript Programming Language
 - Web Crawling and Data Collecting with Python and Selenium
 - Data Analysis with Python and Pandas
-
 <br/><br/><br/>
+
+## Motto
+<h3 align="center">
+    1일 1커밋 :sunglasses:
+</h3>
+<br/><br/>
 
 ## Personal Website
 
 ### [archiveeng.site](https://archiveeng.site)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/b96b2289-8745-4778-a322-4bc61bb396ee/deploy-status)](https://app.netlify.com/sites/archive-eng/deploys)
-<br/><br/>
+<br/><br/><br/>
 
 ## Current Projects
 <br/>
