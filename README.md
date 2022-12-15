@@ -10,8 +10,13 @@ Interested in
 - JavaScript and TypeScript Programming Language
 - Web Crawling and Data Collecting with Python and Selenium
 - Data Analysis with Python and Pandas
-
 <br/><br/><br/>
+
+## Motto
+<h3 align="center">
+    1일 1커밋 :sunglasses:
+</h3>
+<br/><br/>
 
 ## Personal Website
 
