@@ -13,9 +13,9 @@ Interested in
 <br/><br/><br/>
 
 ## Motto
-<h3 align="center">
-    1일 1커밋 :sunglasses:
-</h3>
+<p align="center">
+    <img src="./motto.png" height="300">
+</p>
 <br/><br/>
 
 ## Personal Website
