@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30&height=300&section=header&text=NeckyKim&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30&height=300&section=header&text=kyeryoong&fontSize=60)
 
 ## About Me
 Hongik University Computer Engineering Student
