@@ -34,9 +34,9 @@ Interested in
 
 - [archive-eng](https://github.com/kyeryoong/archive-eng): Personal Website and Portfolio (Side Project)<br/><br/><br/>
 
-<p align="center"><img src="./classpot.png" height="120"></p>
+<p align="center"><img src="./testcon.png" height="120"></p>
 
-- [classpot](https://github.com/kyeryoong/Classpot): Education and Exam Management Web Application (Side Project)<br/><br/><br/>
+- [testcon](https://github.com/kyeryoong/testcon): Test Management Web Application (Side Project)<br/><br/><br/>
 
 
 
