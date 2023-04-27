@@ -21,7 +21,6 @@ Interested in
 ## Personal Website
 
 ### [archiveeng.com](https://archiveeng.com)
-[![Netlify Status](https://api.netlify.com/api/v1/badges/b96b2289-8745-4778-a322-4bc61bb396ee/deploy-status)](https://app.netlify.com/sites/archive-eng/deploys)
 <br/><br/><br/>
 
 ## Current Projects
