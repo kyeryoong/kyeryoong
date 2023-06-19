@@ -70,6 +70,6 @@ Interested in
 
 ![Young-Woo Kim's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyeryoong&show_icons=false&theme=default&line_height=20)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyeryoong&theme=default&layout=compact)
-[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=kyeryoong)](https://solved.ac/kyeryoong)
+![jh05013's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=kyeryoong)
     
 </div>
