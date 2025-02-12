@@ -2,7 +2,8 @@
 
 ## About Me
 - 2017.03 ~ 2023.02 [Hongik University](https://www.hongik.ac.kr) Department of Computer Engineering
-- 2023.07 ~ [Tmax WAPL](https://wapl.ai)
+- 2023.07 ~ 2025.02 [Tmax WAPL](https://wapl.ai) CA연구1본부 CA1-1-3팀
+- 2025.02 ~ [Playtag](https://playtag.ai) Product팀 Software Dev. 파트
 <br/><br/>
 
 Interested Field
@@ -11,38 +12,10 @@ Interested Field
 - Cloud Services
 <br/><br/>
 
-Frequently Used Programming Languages
-- JavaScript and TypeScript for Front-end
-- SQL for Database
-- Python for Web Crawling(via Selenium) and Problem Solving
-<br/><br/>
-
-## Motto
-<p align="center">
-    <img src="./motto.png" height="300">
-</p>
-<br/><br/>
-
 ## Personal Website
 
 ### [youngwookim.me](https://youngwookim.me)
-<br/><br/><br/>
-
-## Current Projects
-<br/>
-<p align="center"><img src="./cardvisor.png" height="100"></p>
-
-- [cardvisor](https://github.com/kyeryoong/cardvisor): Card Products Recommendation Web Application (Team Project)<br/><br/><br/>
-
-<p align="center"><img src="./archive-eng.png" height="120"></p>
-
-- [archive-eng](https://github.com/kyeryoong/archive-eng): Personal Website and Portfolio (Side Project)<br/><br/><br/>
-
-<p align="center"><img src="./testcon.png" height="120"></p>
-
-- [testcon](https://github.com/kyeryoong/testcon): Test Management Web Application (Side Project)<br/><br/><br/>
-
-
+<br/><br/>
 
 ## Interested Software, Frameworks, and Programming Languages
 
