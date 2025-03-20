@@ -1,9 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30&height=300&section=header&text=kyeryoong&fontSize=60)
 
 ## About Me
-- 2017.03 ~ 2023.02 [Hongik University](https://www.hongik.ac.kr) Department of Computer Engineering
-- 2023.07 ~ 2025.02 [Tmax WAPL](https://wapl.ai) CA연구1본부 CA1-1-3팀
-- 2025.02 ~ [Playtag](https://playtag.ai) Product팀 Software Dev. 파트
+- 2017.03 ~ 2023.02 [홍익대학교](https://www.hongik.ac.kr) 컴퓨터공학전공
+- 2023.07 ~ 2025.02 [티맥스와플](https://wapl.ai) CA연구1본부 CA1-1-3팀
+- 2025.02 ~ [플레이태그](https://playtag.ai) R&D팀 Software Dev. 파트
 <br/><br/>
 
 Interested Field
